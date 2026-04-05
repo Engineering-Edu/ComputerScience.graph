@@ -1,0 +1,11 @@
+- https://www.coursera.org/learn/cs-programming-java
+- https://www.coursera.org/projects/showcase-build-a-portfolio-website-html-css-javascript
+- https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence
+- https://www.coursera.org/learn/cryptocurrency
+- https://www.coursera.org/projects/build-a-computer-vision-app-with-azure-cognitive-services
+- https://www.coursera.org/learn/comptia-security-701
+- https://www.coursera.org/learn/problem-solving-programming-video-games
+- https://www.coursera.org/learn/cpsc-6620-database-management-systems
+- https://www.coursera.org/learn/analytic-combinatorics
+- https://www.coursera.org/degrees/msc-computer-science-heriot-watt
+- https://www.coursera.org/degrees/bachelor-of-science-computer-science-london
